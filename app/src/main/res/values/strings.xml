@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Confirm">Confirm</string>
+    <string name="hello_first_fragment">Here is a list of all of your previous catches</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="introduction">Welcome to MyFishBrain</string>
+    <string name="icon_description">This is the icon that I will be using to represent the application</string>
+    <string name="intro_button">Let\'s Start</string>
+    <string name="tap_to_add_new_catches">Tap to Add New Catches</string>
+    <string name="species">Species</string>
+    <string name="weight_lbs">Weight (lbs)</string>
+    <string name="location">Location</string>
+    <string name="lure_type">Lure Type</string>
+    <string name="rod_power">Rod Power</string>
+    <string name="reel_ratio">Reel Ratio</string>
+    <string name="rod_length_ft">Rod Length (ft)</string>
+    <string name="fishing_line_type">Fishing Line Type</string>
+    <string name="fishing_line_pounds">Fishing Line Pounds</string>
+    <string name="water_conditions">Water Conditions</string>
+    <string name="date">Date (MM/DD/YYYY)</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_date_mm_dd_yyyy">Enter Date (MM/DD/YYYY)</string>
+    <string name="catch_location">Catch Location</string>
+    <string name="date_of_catch">Date of Catch</string>
+    <string name="species_of_catch">Species of Catch</string>
+    <string name="weight_of_catch">Weight of Catch</string>
+    <string name="lure_used_for_catch">Lure used for Catch</string>
+    <string name="rod_power_used_for_catch">Rod Power used for Catch</string>
+    <string name="rod_length_used_for_catch">Rod Length used for Catch</string>
+    <string name="reel_ratio_used_for_catch">Reel Ratio used for Catch</string>
+    <string name="fishing_line_type_used_for_catch">Fishing Line Type used for Catch</string>
+    <string name="fishing_line_pounds_used_for_catch">Fishing Line Pounds used for Catch</string>
+    <string name="water_conditions_during_catch">Water Conditions during Catch</string>
+    <string name="clear_catch_info_memory">Clear Catch Info Memory</string>
+    <string-array name="water_conditions">
+        <item>Clear</item>
+        <item>Muddy</item>
+        <item>Stained</item>
+    </string-array>
+    <string-array name="fishing_line_options">
+        <item>Fluorocarbon</item>
+        <item>Braided</item>
+        <item>Monofilament</item>
+    </string-array>
+    <string-array name="rod_length_options">
+        <item>6\'0</item>
+        <item>6\'6</item>
+        <item>6\'9</item>
+        <item>6\'10</item>
+        <item>6\'11</item>
+        <item>7\'0</item>
+        <item>7\'1</item>
+        <item>7\'2</item>
+        <item>7\'3</item>
+        <item>7\'4</item>
+        <item>7\'5</item>
+        <item>7\'6</item>
+        <item>7\'9</item>
+        <item>7\'11</item>
+        <item>8\'0</item>
+    </string-array>
+    <string-array name="rod_power_options">
+        <item>extra-light</item>
+        <item>light</item>
+        <item>medium-light></item>
+        <item>medium</item>
+        <item>medium-heavy</item>
+        <item>heavy</item>
+        <item>extra-heavy</item>
+        <item>mag-heavy</item>
+    </string-array>
+    <string-array name="lure_type_options">
+        <item>texas-rig</item>
+        <item>casting jig</item>
+        <item>flipping jig</item>
+        <item>drop-shot</item>
+        <item>ned-rig</item>
+        <item>swim jig</item>
+        <item>chatterbait</item>
+        <item>wacky-rig</item>
+        <item>neko-rig</item>
+        <item>buzzbait</item>
+        <item>frog</item>
+        <item>popper</item>
+        <item>whopper plopper</item>
+        <item>crankbait</item>
+        <item>lipless crankbait</item>
+        <item>jerkbait</item>
+    </string-array>
+    <string-array name="species_options">
+        <item>Largemouth Bass</item>
+        <item>Smallmouth Bass</item>
+        <item>White Bass</item>
+        <item>Crappie</item>
+        <item>Bluegill</item>
+        <item>Trout</item>
+        <item>Catfish</item>
+        <item>Carp</item>
+    </string-array>
+</resources>
